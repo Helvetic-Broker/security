@@ -14,7 +14,7 @@ At Helvetic Broker, security is at the core of everything we do.
 **We believe in open, auditable security** and regularly scan our platform using leading open source tools like [OWASP ZAP](https://owasp.org/www-project-zap/) and [Snyk](https://snyk.io). We’re committed to transparency and continuously improve our defenses.
 
 🔒 **Review our latest API security report:**  
-[View API Security Report](security/api/zap-report.html)
+[View API Security Report](/reports/api/2025-06-29-api.helveticbroker.com.md)
 
 Authentication is powered by [Firebase Authentication](https://firebase.google.com/products/auth) from Google, providing robust, industry-grade user security for all services.
 
